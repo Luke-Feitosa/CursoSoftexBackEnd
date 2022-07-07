@@ -1,0 +1,5 @@
+1. As variáveis  seriam os dados que seriam solicitados ao usuário.
+
+2. As declarações de variáveis seria o nome dado a essas variáveis.
+
+3. O símbolo de "=" seria utilizado para armazenar a variável.
