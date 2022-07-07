@@ -1,0 +1,30 @@
+leia (caracter) nome
+escreva "Nome: "
+
+leia (caracter) endereço
+escreva "Endereço: "
+
+leia (caracter) cidade
+escreva "cidade: "
+
+leia (real) CPF
+escreva "CPF: "
+
+leia (inteiro) RG
+escreva "RG: "
+
+leia (inteiro) idade
+escreva "idade: "
+
+leia (caracter) pai
+escreva "Nome do pai: "
+
+leia (caracter) mãe
+escreva "Nome da mãe: "
+
+leia (real) peso
+escreva "peso: "
+
+leia (real) renda
+escreva "Renda Bruta: "
+
