@@ -1,0 +1,21 @@
+Inicio
+Var (caracter) transporte = “Trator”, “Moto”, “Bicicleta”, “Trem”, “Carro”, “Caminhao”, “ônibus”, “Paraquedas”, “Balão”, “avião”, “Helicóptero”, “Submarino”, “Barco”, “Navio”, “Lancha”
+
+Escreva (“Responda apenas “sim” ou “não””)
+Escreva (“É terrestre?)
+Leia(transporte)
+Se transporte = sim, então
+Escreva (“cabe apenas uma pessoa?”)
+Leia (transporte)
+Se transporte = sim, então
+Escreva (“é pesado?)
+Leia (transporte)
+Se transporte = sim, então
+Escreva (“É um trator!)
+Senão se transporte = não, então
+Escreva (“Tem pedal?”)
+Leia (transporte)
+Então escreva (“É uma moto!)
+Senão escreva (“É uma bicicleta!”)
+fim
+
