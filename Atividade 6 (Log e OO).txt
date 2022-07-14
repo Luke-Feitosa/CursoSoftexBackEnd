@@ -1,0 +1,11 @@
+inicio
+escreva ("Nome do aluno: ")
+leia (nome)
+escreva ("Nota do aluno: ")
+leia(nota)
+escreva ("Qual a turma do aluno? ")
+leia (turma)
+escreva se (nota>=7) entao
+aprovado ++
+ate (cont++)
+fim
