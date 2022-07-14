@@ -1,0 +1,5 @@
+int main() {
+int *A = (int*) malloc(10* sizeof(int));
+int *B = (int*)realloc(p, 22 * sizeof(int));
+free ( ): void free (void*ptr);
+}
