@@ -1,0 +1,9 @@
+nome = 'Lucas'
+nota1 = 9
+nota2 = 8
+media = (nota1 + nota2)/2
+faltas = 3
+if media >= 7 :
+  print('Aprovado por média')
+elif faltas >=2 :
+  print('reprovado')
