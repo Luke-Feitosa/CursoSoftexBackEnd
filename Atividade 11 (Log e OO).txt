@@ -1,0 +1,10 @@
+rodas = 4
+peso = 1000
+pessoas = 5
+
+if rodas<=3 :
+  print ('Categoria A')
+elif rodas >=4 and pessoas <=5 and peso <=2000 :
+  print ('Categoria B')
+elif rodas >=4 and pessoas >5 and peso >2000 :
+  print ('Categoria C')
