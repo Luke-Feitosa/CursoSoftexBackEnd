@@ -1,0 +1,29 @@
+print('Digita apenas a letra correspondente:')
+print(' 1:Soma')
+print(' 2:Subtração')
+print(' 3:Multiplicação')
+print(' 4:Divisão')
+print(' 0:Sair')
+def operacao(n1, n2, opcao):
+  if opcao == 1:
+    soma = n1 + n2
+    print(soma)
+  elif opcao == 2:
+    subtração = n1 - n2
+    print(subtração)
+  elif opcao == 3:
+    multiplicação = n1 * n2
+    print(multiplicação)
+  elif opcao == 4:
+    divisão = n1 / n2
+    print(divisão)
+  else:
+    return 0
+    
+condicao = 1
+while condicao == 1:
+  n1 = int(input("digite um numero: "))
+  n2 = int(input("digite um numero: "))
+  opcao = int(input("digite um numero: "))
+  operacao(n1, n2, opcao)
+  condicao = int(input("realizar operaçao? sim:1 ou nao:0"))
