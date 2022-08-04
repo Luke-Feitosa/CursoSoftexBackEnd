@@ -1,0 +1,16 @@
+def funcao(ano):
+  if ano >=1922 and ano<=2021 :
+     return 2022-ano
+  else :
+    raise Exception('insira um ano permitido ou insira um valor ')
+while i ==1:
+  nome=str(input('informe seu nome completo:'))
+  ano=int(input('informe seu ano de nascimento:'))
+  try:
+    result=funcao(ano)
+    print('Neste ano você tem',funcao(ano))
+  except:
+    print('digite um ano válido ')
+    a=input('deseja continuar ? S/N')
+    if a=='N':
+      i=0
