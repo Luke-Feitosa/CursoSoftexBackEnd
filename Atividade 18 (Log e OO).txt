@@ -1,0 +1,39 @@
+'numeros complexos'
+a = complex(7,15)
+print(type(a))
+<class 'complex'>
+b = complex(17,18)
+print(type(b))
+<class 'complex'>
+c=complex(24,33)
+print(type(c))
+<class 'complex'>
+
+'operações básicas'
+'adição'
+a+b+c
+(7+15j)
+'subtração'
+a-b-c
+(-17-18j)
+'multiplicação'
+a*b*c
+(-24+33j)
+'divisão'
+a+b/c
+(1.3676470588235294+2.120588235294118j)
+
+'propriedades'
+print(a.real)
+3.0
+print(a.imag)
+8.0
+print(b.real)
+5.0
+print(c.imag)
+10.0
+print(b.imag)
+2.0
+print(c.real)
+6.0
+print(c.imag)
