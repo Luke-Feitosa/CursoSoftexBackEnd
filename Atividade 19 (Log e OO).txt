@@ -1,0 +1,5 @@
+	Formalmente, um grafo é uma colecção de vértices (V) e uma colecção de arcos (E) constituídos por pares de vértices. 
+É uma estrutura usada para representar um modelo em que existem relações entre os objectos de uma certa colecção. São modelos de dados que armazenam e facilitam na manipulação, estruturas com características de ligações entre pontos. Para armazenar esses modelos podemos utilizar duas estruturas de dados: vetores e listas encadeadas.
+
+	Exemplo: um usuário de uma loja quer saber que rota seguir do ponto X, que pode ser sua casa ou algum lugar em que estiver acessando o site, até o ponto Y, que é a loja mais próxima, sendo que quer pegar a rota mais curta possível. Outro exemplo seria: 
+estamos construindo uma cidade nova em algum lugar antes inabitado e queremos fazer de forma que tenhamos o maior número de ruas com sentido único possível. O problema é saber quais ruas podem ter mão-única e para que sentido apontarão, mantendo todas as ruas alcançáveis de qualquer outro ponto na cidade.
