@@ -1,0 +1,24 @@
+MATERIAIS:
+
+Computador;
+Preto,  16 cm, 3 kg.
+Estudar, Trabalhar, Jogar.
+
+
+Carro:
+Preto, 80 cm, 800 kg.
+Viajar, Estacionar, acelerar.
+
+
+
+
+ABSTRATO:
+
+Vida saudável;
+Exercício, corrida, comida fit.
+Dormir, Comer, Correr.
+
+
+Trabalhar;
+Remuneração, deslocamento, lugar.
+Pagar, Prestar serviço.
