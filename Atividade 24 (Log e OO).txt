@@ -1,0 +1,16 @@
+package br.com.faculdade;
+public class pessoas extends pessoas
+{
+  public string alunos;
+  public string professores;
+  public string coordenadores;
+}
+
+package br.com.escola;
+
+public class pessoas extends pessoas
+{
+  public string professores;
+  public string funcionários;
+  public int salários;
+}
