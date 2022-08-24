@@ -1,0 +1,7 @@
+Padrão de projeto: Comportamental
+
+O padrão de projeto comportamental tem como foco a maneira como as classes e objetos se comunicam uns com os outros. A ideia central 
+do padrão Command é produzir um maior nível de acoplamento fraco entre as partes envolvidas. 
+Acoplamento é a maneira pela qual duas classes (ou mais) interagem umas com as outras. O cenário ideal é quando essas classes 
+interagem sem depender fortemente umas das outras. Esse é o acoplamento fraco. 
+Então, uma definição melhor para o acoplamento fraco seria "classes interconectadas, mas fazendo o menor uso possível umas das outras".
