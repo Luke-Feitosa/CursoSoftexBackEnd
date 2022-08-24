@@ -1,0 +1,11 @@
+public class Divisão {
+    int d, a;
+
+    try {
+      x = 10 / 0;
+      System.out.println("exceção.");
+    } catch (ArithmeticException e) { //
+      System.out.println("Erro ao dividir por 0.");
+    }
+    System.out.println("Erro.");
+}
