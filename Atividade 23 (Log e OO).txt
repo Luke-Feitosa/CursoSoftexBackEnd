@@ -1,0 +1,18 @@
+class Celular
+
+public string modelo
+private string cor
+
+public string getmodelo()
+public setmodelo()
+    return modelo
+
+public string getcor()
+public setcor()
+    return cor
+
+metodo contruct
+ligar()
+ligar = 'on'
+
+fimmetodo
