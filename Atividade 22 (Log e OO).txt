@@ -1,0 +1,20 @@
+class Celular
+
+def __init__(self, marca, cor, modelo)
+    self.marca = marca
+    self.cor = cor
+    self.modelo = modelo
+
+def get_marca(self):
+    return self.marca
+
+def get_cor(self):
+    return self.cor
+
+def get_modelo(self):
+    return self.modelo
+
+celular = celular ('samsung', 'galaxy')
+celular.get_marca()
+celular.get_cor()
+celular.get_modelo()
