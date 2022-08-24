@@ -1,0 +1,12 @@
+var = 'Me tornarei um programador'
+print(len(var))
+
+
+var = 'ME TORNAREI UM PROGRAMADOR'
+editvar = var.lower()
+print(editvar) 'me tornarei um programador'
+
+
+var = 'me tornarei um programador'
+editvar = var.upper()
+print(editvar) 'ME TORNAREI UM PROGRAMADOR'
